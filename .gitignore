@@ -4,3 +4,4 @@ out/
 *.iws
 *.iml
 *.ipr
+kafka-producer/.gradle/
