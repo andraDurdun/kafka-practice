@@ -5,3 +5,6 @@ out/
 *.iml
 *.ipr
 kafka-producer/.gradle/
+kafka-consumer/.gradle/
+/kafka-consumer/build/
+/kafka-producer/build/
